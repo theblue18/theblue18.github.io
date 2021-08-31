@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.281423d6.chunk.css",
+    "main.js": "/static/js/main.af7978c8.chunk.js",
+    "main.js.map": "/static/js/main.af7978c8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f95d4617.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f95d4617.js.map",
+    "static/js/2.1a0dfa6e.chunk.js": "/static/js/2.1a0dfa6e.chunk.js",
+    "static/js/2.1a0dfa6e.chunk.js.map": "/static/js/2.1a0dfa6e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.18c648a222b0189fca2979023a172f03.js": "/precache-manifest.18c648a222b0189fca2979023a172f03.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.281423d6.chunk.css.map": "/static/css/main.281423d6.chunk.css.map",
+    "static/js/2.1a0dfa6e.chunk.js.LICENSE.txt": "/static/js/2.1a0dfa6e.chunk.js.LICENSE.txt",
+    "static/media/Agent_Comand_Transactions.png": "/static/media/Agent_Comand_Transactions.f3a224b7.png",
+    "static/media/Agent_Command_Database.png": "/static/media/Agent_Command_Database.011b65be.png",
+    "static/media/Agent_Command_Day.png": "/static/media/Agent_Command_Day.8d8557fd.png",
+    "static/media/style.scss": "/static/media/illustration-section-02.63d0555d.svg",
+    "static/media/feature-tile-icon-01.svg": "/static/media/feature-tile-icon-01.0f9928d7.svg",
+    "static/media/feature-tile-icon-02.svg": "/static/media/feature-tile-icon-02.bd39f304.svg",
+    "static/media/feature-tile-icon-03.svg": "/static/media/feature-tile-icon-03.66f37ba5.svg",
+    "static/media/feature-tile-icon-04.svg": "/static/media/feature-tile-icon-04.836acd10.svg",
+    "static/media/feature-tile-icon-05.svg": "/static/media/feature-tile-icon-05.fa9ba00b.svg",
+    "static/media/feature-tile-icon-06.svg": "/static/media/feature-tile-icon-06.6a177696.svg",
+    "static/media/logo_KW_Vietnam_Round.png": "/static/media/logo_KW_Vietnam_Round.a99d89f6.png",
+    "static/media/logo_KW_Vietnam_Transparent.png": "/static/media/logo_KW_Vietnam_Transparent.ea35f681.png",
+    "static/media/video-placeholder.jpg": "/static/media/video-placeholder.a622fc5d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f95d4617.js",
+    "static/js/2.1a0dfa6e.chunk.js",
+    "static/css/main.281423d6.chunk.css",
+    "static/js/main.af7978c8.chunk.js"
+  ]
+}
